@@ -67,6 +67,8 @@ gnome-calendar.gnome-3-30.id.po
 
 gnome-chess.gnome-3-30.id.po
 
+~~gnome-chess.master.id.po~~
+
 gnome-clocks.gnome-3-30.id.po
 
 gnome-color-manager.master.id.po
