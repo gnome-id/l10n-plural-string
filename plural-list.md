@@ -91,6 +91,8 @@ gnome-music.gnome-3-30.id.po
 
 gnome-nibbles.gnome-3-24.id.po
 
+~~gnome-nibbles.master.id.po~~
+
 gnome-notes.gnome-3-30.id.po
 
 gnome-photos.gnome-3-30.id.po
