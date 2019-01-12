@@ -5,7 +5,19 @@ ___
 
 * plural lama yang salah: nplurals=1; plural=0;
 
+	```
+	...
+	"Plural-Forms: nplurals=1; plural=0;\n"
+	...
+	```
+
 * plural baru: nplurals=2; plural= n!=1;
+
+	```
+	...
+	"Plural-Forms: nplurals=2; plural= n!=1;\n"
+	...
+	```
 
 ___
 
