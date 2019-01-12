@@ -85,6 +85,8 @@ gnome-maps.gnome-3-30.id.po
 
 gnome-mines.gnome-3-30.id.po
 
+~~gnome-mines.master.id.po~~
+
 gnome-music.gnome-3-30.id.po
 
 gnome-nibbles.gnome-3-24.id.po
