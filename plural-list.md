@@ -143,6 +143,8 @@ swell-foop.gnome-3-30.id.po
 
 tali.gnome-3-22.id.po
 
+~~tali.gnome-3-22.id.po~~
+
 totem.gnome-3-30.id.po
 
 tracker-miners.tracker-miners-2.1.id.po
