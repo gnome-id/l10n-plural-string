@@ -139,6 +139,8 @@ sushi.gnome-3-30.id.po
 
 swell-foop.gnome-3-30.id.po
 
+~~swell-foop.master.id.po~~
+
 tali.gnome-3-22.id.po
 
 totem.gnome-3-30.id.po
