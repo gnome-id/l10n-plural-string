@@ -47,6 +47,8 @@ evolution.gnome-3-30.id.po
 
 file-roller.gnome-3-30.id.po
 
+~~file-roller.master.id.po~~
+
 folks.master.id.po
 
 gcr.master.id.po
