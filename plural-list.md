@@ -87,6 +87,8 @@ gnome-color-manager.master.id.po
 
 gnome-contacts.gnome-3-30.id.po
 
+~~gnome-contacts.master.id.po~~
+
 gnome-control-center.gnome-3-30.id.po
 
 gnome-disk-utility.gnome-3-30.id.po
