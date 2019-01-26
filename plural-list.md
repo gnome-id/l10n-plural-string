@@ -23,6 +23,8 @@ ___
 
 ~~baobab.gnome-3-30.id.po~~
 
+~~baobab.master.id.po~~
+
 ~~brasero.master.id.po~~
 
 ~~cheese.master.id.po~~
