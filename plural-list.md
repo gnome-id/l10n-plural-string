@@ -151,7 +151,7 @@ swell-foop.gnome-3-30.id.po
 
 tali.gnome-3-22.id.po
 
-~~tali.gnome-3-22.id.po~~
+~~tali.master.id.po~~
 
 totem.gnome-3-30.id.po
 
