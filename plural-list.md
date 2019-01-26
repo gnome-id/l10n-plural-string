@@ -33,6 +33,8 @@ dconf-editor.gnome-3-30.id.po
 
 eog.gnome-3-28.id.po
 
+~~eog.master.id.po~~
+
 epiphany.gnome-3-30.id.po
 
 evince.gnome-3-30.id.po
