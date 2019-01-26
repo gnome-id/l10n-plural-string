@@ -39,6 +39,8 @@ epiphany.gnome-3-30.id.po
 
 evince.gnome-3-30.id.po
 
+~~evince.master.id.po~~
+
 evolution-data-server.gnome-3-30.id.po
 
 evolution.gnome-3-30.id.po
