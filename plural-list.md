@@ -131,6 +131,8 @@ gnome-sudoku.gnome-3-30.id.po
 
 gnome-system-monitor.gnome-3-30.id.po
 
+~~gnome-system-monitor.master.id.po~~
+
 gnome-todo.gnome-3-28.id.po
 
 gnome-tweaks.gnome-3-30.id.po
