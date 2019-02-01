@@ -97,6 +97,8 @@ gnome-documents.gnome-3-30.id.po
 
 gnome-maps.gnome-3-30.id.po
 
+~~gnome-maps.master.id.po~~
+
 gnome-mines.gnome-3-30.id.po
 
 ~~gnome-mines.master.id.po~~
