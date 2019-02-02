@@ -119,6 +119,8 @@ gnome-photos.gnome-3-30.id.po
 
 gnome-settings-daemon.gnome-3-30.id.po
 
+~~gnome-settings-daemon.master.id.po~~
+
 gnome-shell.gnome-3-30.id.po
 
 gnome-software.gnome-3-30.id.po
