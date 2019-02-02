@@ -141,6 +141,8 @@ gtk.gtk-3-24.id.po
 
 gvfs.gnome-3-30.id.po
 
+~~gvfs.master.id.po~~
+
 libgnome-games-support.master.id.po
 
 libgtop.master.id.po
