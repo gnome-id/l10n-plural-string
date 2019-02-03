@@ -59,6 +59,8 @@ gdk-pixbuf.master.id.po
 
 gedit.gnome-3-30.id.po
 
+~~gedit.master.id.po~~
+
 gitg.gnome-3-30.id.po
 
 glib.glib-2-58.id.po
