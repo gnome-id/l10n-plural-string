@@ -157,6 +157,8 @@ lightsoff.gnome-3-30.id.po
 
 nautilus.gnome-3-30.id.po
 
+~~nautilus.master.id.po~~
+
 orca.gnome-3-30.id.po
 
 polari.gnome-3-30.id.po
