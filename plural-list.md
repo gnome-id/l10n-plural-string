@@ -143,6 +143,8 @@ gnome-todo.gnome-3-28.id.po
 
 gnome-tweaks.gnome-3-30.id.po
 
+~~gnome-tweaks.master.id.po~~
+
 gtk.gtk-3-24.id.po
 
 gvfs.gnome-3-30.id.po
