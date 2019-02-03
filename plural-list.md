@@ -79,6 +79,8 @@ gnome-calculator.gnome-3-30.id.po
 
 gnome-calendar.gnome-3-30.id.po
 
+~~gnome-calendar.master.id.po~~
+
 gnome-chess.gnome-3-30.id.po
 
 ~~gnome-chess.master.id.po~~
