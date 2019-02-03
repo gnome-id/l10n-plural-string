@@ -99,6 +99,8 @@ gnome-disk-utility.gnome-3-30.id.po
 
 gnome-documents.gnome-3-30.id.po
 
+~~gnome-documents.master.id.po~~
+
 gnome-maps.gnome-3-30.id.po
 
 ~~gnome-maps.master.id.po~~
