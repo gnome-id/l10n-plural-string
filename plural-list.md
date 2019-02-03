@@ -117,6 +117,8 @@ gnome-nibbles.gnome-3-24.id.po
 
 gnome-notes.gnome-3-30.id.po
 
+~~gnome-notes.master.id.po~~
+
 gnome-photos.gnome-3-30.id.po
 
 ~~gnome-photos.master.id.po~~
