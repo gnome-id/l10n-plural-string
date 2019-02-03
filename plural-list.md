@@ -167,6 +167,8 @@ seahorse.gnome-3-30.id.po
 
 simple-scan.gnome-3-30.id.po
 
+~~simple-scan.master.id.po~~
+
 sushi.gnome-3-30.id.po
 
 swell-foop.gnome-3-30.id.po
