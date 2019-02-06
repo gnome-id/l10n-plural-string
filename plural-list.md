@@ -63,7 +63,7 @@ gedit.gnome-3-30.id.po
 
 gitg.gnome-3-30.id.po
 
-~~	gitg.master.id.po~~
+~~gitg.master.id.po~~
 
 glib.glib-2-58.id.po
 
