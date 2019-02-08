@@ -199,6 +199,8 @@ tali.gnome-3-22.id.po
 
 totem.gnome-3-30.id.po
 
+~~totem.master.id.po~~
+
 tracker-miners.tracker-miners-2.1.id.po
 
 tracker.tracker-2.1.id.po
