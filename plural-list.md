@@ -77,6 +77,8 @@ gnome-boxes.master.id.po
 
 gnome-builder.gnome-builder-3-30.id.po
 
+~~gnome-builder.master.id.po~~
+
 gnome-calculator.gnome-3-30.id.po
 
 ~~gnome-calculator.master.id.po~~
