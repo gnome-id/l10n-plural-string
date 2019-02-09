@@ -141,6 +141,8 @@ gnome-shell.gnome-3-30.id.po
 
 gnome-software.gnome-3-30.id.po
 
+~~gnome-software.master.id.po~~
+
 gnome-sound-recorder.gnome-3-28.id.po
 
 ~~gnome-sound-recorder.master.id.po~~
