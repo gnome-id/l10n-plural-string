@@ -69,6 +69,8 @@ glib.glib-2-58.id.po
 
 glib-networking.glib-2-58.id.po
 
+~~glib-networking.master.id.po~~
+
 gnome-bluetooth.gnome-3-28.id.po
 
 gnome-boxes.gnome-3-30.id.po
