@@ -71,9 +71,9 @@ glib-networking.glib-2-58.id.po
 
 gnome-bluetooth.gnome-3-28.id.po
 
-~~gnome-boxes.gnome-3-30.id.po~~
+gnome-boxes.gnome-3-30.id.po
 
-gnome-boxes.master.id.po
+~~gnome-boxes.master.id.po~~
 
 gnome-builder.gnome-builder-3-30.id.po
 
