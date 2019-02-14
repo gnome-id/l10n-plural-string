@@ -145,6 +145,8 @@ gnome-settings-daemon.gnome-3-30.id.po
 
 gnome-shell.gnome-3-30.id.po
 
+~~gnome-shell.master.id.po~~
+
 gnome-software.gnome-3-30.id.po
 
 ~~gnome-software.master.id.po~~
