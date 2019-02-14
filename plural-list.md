@@ -105,6 +105,8 @@ gnome-control-center.gnome-3-30.id.po
 
 gnome-disk-utility.gnome-3-30.id.po
 
+~~gnome-disk-utility.master.id.po~~
+
 gnome-documents.gnome-3-30.id.po
 
 ~~gnome-documents.master.id.po~~
