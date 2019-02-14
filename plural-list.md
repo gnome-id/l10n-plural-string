@@ -67,6 +67,8 @@ gitg.gnome-3-30.id.po
 
 glib.glib-2-58.id.po
 
+~~glib.master.id.po~~
+
 glib-networking.glib-2-58.id.po
 
 ~~glib-networking.master.id.po~~
