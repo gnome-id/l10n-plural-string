@@ -37,6 +37,8 @@ eog.gnome-3-28.id.po
 
 epiphany.gnome-3-30.id.po
 
+~~epiphany.gnome-3-32.id.po~~
+
 evince.gnome-3-30.id.po
 
 ~~evince.master.id.po~~
