@@ -201,6 +201,8 @@ rygel.rygel-0-36.id.po
 
 seahorse.gnome-3-30.id.po
 
+~~seahorse.master.id.po~~
+
 simple-scan.gnome-3-30.id.po
 
 ~~simple-scan.master.id.po~~
