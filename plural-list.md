@@ -31,6 +31,8 @@ ___
 
 dconf-editor.gnome-3-30.id.po
 
+~~dconf-editor.master.id.po~~
+
 eog.gnome-3-28.id.po
 
 ~~eog.master.id.po~~
