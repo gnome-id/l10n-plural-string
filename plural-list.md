@@ -231,6 +231,6 @@ tracker.tracker-2.1.id.po
 
 ~~tracker.master.id.po~~
 
-vinagre.master.id.po
+~~vinagre.master.id.po~~
 
 vino.master.id.po
