@@ -63,7 +63,7 @@ folks.master.id.po
 
 gcr.master.id.po
 
-gdk-pixbuf.master.id.po
+~~gdk-pixbuf.master.id.po~~
 
 gedit.gnome-3-30.id.po
 
