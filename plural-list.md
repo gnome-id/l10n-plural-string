@@ -201,6 +201,8 @@ orca.gnome-3-30.id.po
 
 polari.gnome-3-30.id.po
 
+~~polari.master.id.po~~
+
 rygel.rygel-0-36.id.po
 
 seahorse.gnome-3-30.id.po
