@@ -20,9 +20,9 @@ Jadi, kenapa kok di berbagai tempat kita memakai bentuk yang salah?
 
 Saya pikir, sudah saatnya ini diluruskan. Saatnya pindah ke bentuk yang dinyatakan oleh gettext.
 
-# Update 2021
+# Pemutakhiran 2021
 
-Hasil diskusi singkat pada Jumat, 15 Oktober 2021 19.31 s.d. 19.45 di kanal Telegram GNOME l10n ID
+Hasil diskusi singkat pada Jumat, 15 Oktober 2021 19.31 s.d. 19.45 UTC+7 di kanal Telegram GNOME l10n ID
 
 ---
 Tautan https://i14i.andika.info/index.php?title=Halaman_Utama#Bentuk_Jamak
