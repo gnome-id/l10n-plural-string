@@ -1,4 +1,4 @@
-Daftar berkas .po yang perlu diperbaiki sesuai https://github.com/gnome-id/l10n-plural-string#pemutakhiran-2021
+Daftar berkas .po di [GNOME 42](https://l10n.gnome.org/languages/id/gnome-42/ui/) yang perlu diperbaiki sesuai https://github.com/gnome-id/l10n-plural-string#pemutakhiran-2021
 
 Kembali ke format berikut
 ```
