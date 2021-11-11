@@ -12,7 +12,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [ ] brasero.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] cheese.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] dconf-editor.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] eog.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] eog.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] epiphany.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] evince.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] evolution-data-server.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
