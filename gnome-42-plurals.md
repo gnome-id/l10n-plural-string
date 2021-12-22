@@ -21,7 +21,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] five-or-more.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] four-in-a-row.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gdk-pixbuf.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gedit.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gedit.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gitg.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] glade.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] glib-networking.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
