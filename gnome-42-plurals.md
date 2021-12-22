@@ -11,7 +11,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] baobab.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] brasero.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] cheese.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] dconf-editor.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] dconf-editor.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] eog.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] epiphany.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] evince.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
