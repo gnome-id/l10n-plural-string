@@ -18,7 +18,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] evolution-data-server.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] evolution.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] file-roller.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] five-or-more.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] five-or-more.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] four-in-a-row.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gdk-pixbuf.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gedit.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
