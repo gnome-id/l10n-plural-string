@@ -23,7 +23,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gdk-pixbuf.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gedit.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gitg.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] glade.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] glade.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] glib-networking.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] glib.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-books.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
