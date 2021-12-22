@@ -16,7 +16,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] epiphany.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] evince.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] evolution-data-server.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] evolution.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] evolution.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] file-roller.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] five-or-more.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] four-in-a-row.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
