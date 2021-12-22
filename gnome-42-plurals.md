@@ -8,7 +8,7 @@ Plural-Forms: nplurals=1; plural=0;
 
 - [x] aisleriot.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] atk.master.id.po:"Plural-Forms: nplurals=2; plural=n != 1;\n"
-- [ ] baobab.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] baobab.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] brasero.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] cheese.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] dconf-editor.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
