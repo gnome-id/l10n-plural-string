@@ -6,7 +6,7 @@ Plural-Forms: nplurals=1; plural=0;
 ```
 ---
 
-- [ ] aisleriot.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] aisleriot.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] atk.master.id.po:"Plural-Forms: nplurals=2; plural=n != 1;\n"
 - [ ] baobab.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] brasero.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
