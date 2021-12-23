@@ -31,7 +31,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-builder.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-calculator.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-calendar.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gnome-chess.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-chess.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-clocks.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-contacts.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-control-center.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
