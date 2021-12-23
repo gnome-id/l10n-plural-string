@@ -29,7 +29,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-books.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-boxes.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-builder.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gnome-calculator.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-calculator.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-calendar.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-chess.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-clocks.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
