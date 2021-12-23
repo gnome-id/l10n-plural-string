@@ -49,7 +49,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-nettool.master.id.po:"Plural-Forms: nplurals=2; plural=n != 1;\n"
 - [x] gnome-nibbles.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-notes.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gnome-photos.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-photos.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-screenshot.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-settings-daemon.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-shell.main.id.po:"Plural-Forms: nplurals=2; plural=n != 1;\n"
