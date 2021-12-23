@@ -36,7 +36,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-contacts.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-control-center.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-dictionary.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gnome-disk-utility.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-disk-utility.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-documents.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-font-viewer.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-initial-setup.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
