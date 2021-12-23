@@ -59,7 +59,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-taquin.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-terminal.master.id.po:"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 - [x] gnome-tetravex.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gnome-todo.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-todo.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-tweaks.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-user-share.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-weather.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
