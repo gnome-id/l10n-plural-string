@@ -43,7 +43,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-klotski.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-mahjongg.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-maps.master.id.po:"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-- [ ] gnome-menus.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-menus.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-mines.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-music.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-nettool.master.id.po:"Plural-Forms: nplurals=2; plural=n != 1;\n"
