@@ -41,7 +41,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-font-viewer.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-initial-setup.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-klotski.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gnome-mahjongg.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-mahjongg.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-maps.master.id.po:"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 - [ ] gnome-menus.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-mines.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
