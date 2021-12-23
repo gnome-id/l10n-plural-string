@@ -53,7 +53,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-screenshot.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-settings-daemon.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-shell.main.id.po:"Plural-Forms: nplurals=2; plural=n != 1;\n"
-- [ ] gnome-software.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gnome-software.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-sudoku.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-system-monitor.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gnome-taquin.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
