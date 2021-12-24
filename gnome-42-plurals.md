@@ -71,7 +71,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] iagno.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] mutter.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] nautilus.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] orca.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] orca.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] quadrapassel.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] seahorse.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] simple-scan.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
