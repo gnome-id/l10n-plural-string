@@ -63,7 +63,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gnome-tweaks.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-user-share.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] gnome-weather.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] gsettings-desktop-schemas.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] gsettings-desktop-schemas.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] gtk-properties.master.id.po:"Plural-Forms: nplurals=2; plural=n!=1;\n"
 - [ ] gtk.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1\n"
 - [ ] gvfs.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
