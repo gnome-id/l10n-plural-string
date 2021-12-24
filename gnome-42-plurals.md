@@ -69,7 +69,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] gvfs.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] hitori.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] iagno.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] mutter.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] mutter.main.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] nautilus.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] orca.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] quadrapassel.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
