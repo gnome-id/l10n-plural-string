@@ -75,7 +75,7 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] quadrapassel.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] seahorse.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] simple-scan.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] swell-foop.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] swell-foop.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] tali.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] totem.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] tracker-miners.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
