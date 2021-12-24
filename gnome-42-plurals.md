@@ -80,5 +80,5 @@ Plural-Forms: nplurals=1; plural=0;
 - [x] totem.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] tracker-miners.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [x] tracker.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
-- [ ] vinagre.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
+- [x] vinagre.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
 - [ ] yelp.master.id.po:"Plural-Forms: nplurals=2; plural= n!=1;\n"
